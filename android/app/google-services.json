@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "744564043105",
+    "firebase_url": "https://phoneauth-f9c6b.firebaseio.com",
+    "project_id": "phoneauth-f9c6b",
+    "storage_bucket": "phoneauth-f9c6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744564043105:android:84bf315444b4f2ea6ee920",
+        "android_client_info": {
+          "package_name": "com.example.phnauthnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744564043105-fs3lapg8ha50hlg1sm9h98u1ihl9c5ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAef_saU7-ypyT1m0_Pg5XbYVbRJ4g_-yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744564043105-fs3lapg8ha50hlg1sm9h98u1ihl9c5ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
